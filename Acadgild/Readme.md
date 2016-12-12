@@ -1,3 +1,8 @@
+
+Ticket
+======
+https://acadgild.freshdesk.com/support/home
+
 The following links will help you learn and become HIVE master.
 ================================================================
 https://acadgild.com/blog/hive-beginners-guide/
