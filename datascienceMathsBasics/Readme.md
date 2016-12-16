@@ -10,3 +10,6 @@ Here are the 3 steps to learning the math required for data science and machine 
 http://www.visiondummy.com/2014/03/eigenvalues-eigenvectors/
 
 http://101science.com/Calculuslinks.htm
+
+
+http://djm.cc/library/?C=M;O=A - all basics of math original books
