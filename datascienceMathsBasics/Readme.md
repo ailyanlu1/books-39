@@ -5,3 +5,6 @@ Here are the 3 steps to learning the math required for data science and machine 
 2)Calculus for Data Science - Derivatives and gradients.
 
 3)Gradient Descent from Scratch - Implement a simple neural network from scratch.
+
+
+http://www.visiondummy.com/2014/03/eigenvalues-eigenvectors/
